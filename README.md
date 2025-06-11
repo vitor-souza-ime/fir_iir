@@ -1,10 +1,10 @@
 
 ````markdown
-# 🎧 FIR and IIR Filter Analysis with Python
+🎧 FIR and IIR Filter Analysis with Python
 
 This project demonstrates the design, application, and analysis of digital FIR and IIR filters using `scipy.signal`, with graphical visualizations via `matplotlib`.
 
-## 📌 Overview
+📌 Overview
 
 The script performs signal filtering over four types of signals:
 
@@ -22,17 +22,15 @@ Each filter is applied to the signals, and various plots are generated for frequ
 
 ---
 
-## 🛠️ Requirements
+🛠️ Requirements
 
 Make sure the following Python libraries are installed:
 
-```bash
 pip install numpy matplotlib scipy
-````
 
 ---
 
-## 🚀 How to Run
+🚀 How to Run
 
 Simply execute the script:
 
@@ -42,21 +40,21 @@ python main.py
 
 ---
 
-## 🧪 Features
+🧪 Features
 
-### ✅ Filter Design
+✅ Filter Design
 
 * FIR filter: Hamming window, 51 taps, 100 Hz cutoff
 * IIR filter: 4th-order Butterworth, 100 Hz cutoff
 
-### ✅ Signal Types
+✅ Signal Types
 
 * Pure sinusoidal
 * Random white noise
 * Unit impulse
 * Composite signal
 
-### ✅ Visual Analysis
+✅ Visual Analysis
 
 For each filter:
 
