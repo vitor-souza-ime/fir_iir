@@ -1,5 +1,4 @@
 
-````markdown
 🎧 FIR and IIR Filter Analysis with Python
 
 This project demonstrates the design, application, and analysis of digital FIR and IIR filters using `scipy.signal`, with graphical visualizations via `matplotlib`.
